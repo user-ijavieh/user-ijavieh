@@ -9,35 +9,37 @@ My goal is to bridge the gap between complex problems and efficient technical so
 * 🌱 **Currently learning:** NestJS & Angular.
 * 🎓 **Education:** Web Application Development (DAW).
 * 🧩 **Focus:** Problem-solving and building efficient web architectures.
-* 💬 **Ask me about:** Frontend, Backend, or the latest tech trends.
+* 💬 **Ask me about:** Frontend, Backend, or the latest monster releases.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaaviiieeeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-remedios/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jremedioscolmenares@gmail.com) 
 
 # 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="195px" />
-      </td>
-      <td valign="top" align="center">
-        <img src="./assets/PokemonEating.gif" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://streak-stats.demolab.com/?user=user-ijavieh&theme=blueberry&hide_border=false" height="195px" />
-      </td>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" />
-      </td>
-    </tr>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto; background-color: transparent;">
+    <tbody style="border: none;">
+      <tr style="border: none;">
+        <td valign="top" align="center" style="border: none; padding: 5px;">
+          <img src="https://github-readme-stats.shion.dev/api?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="195px" />
+        </td>
+        <td valign="top" align="center" style="border: none; padding: 5px;">
+          <img src="./assets/squirtle-rice.gif" height="195px" />
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td valign="top" align="center" style="border: none; padding: 5px;">
+          <img src="https://streak-stats.demolab.com/?user=user-ijavieh&theme=blueberry&hide_border=false" height="195px" />
+        </td>
+        <td valign="top" align="center" style="border: none; padding: 5px;">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" />
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
@@ -49,8 +51,5 @@ My goal is to bridge the gap between complex problems and efficient technical so
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=user-ijavieh&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
