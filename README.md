@@ -21,26 +21,14 @@ My goal is to bridge the gap between complex problems and efficient technical so
 # 📊 GitHub Stats:
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto; background-color: transparent;">
-    <tbody style="border: none;">
-      <tr style="border: none;">
-        <td valign="top" align="center" style="border: none; padding: 5px;">
-          <img src="https://github-readme-stats.shion.dev/api?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="195px" />
-        </td>
-        <td valign="top" align="center" style="border: none; padding: 5px;">
-          <img src="./assets/squirtle-rice.gif" height="195px" />
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td valign="top" align="center" style="border: none; padding: 5px;">
-          <img src="https://streak-stats.demolab.com/?user=user-ijavieh&theme=blueberry&hide_border=false" height="195px" />
-        </td>
-        <td valign="top" align="center" style="border: none; padding: 5px;">
-          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://github-readme-stats.shion.dev/api?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/PokemonEating.gif" height="180" />
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com/?user=user-ijavieh&theme=blueberry&hide_border=false" height="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
 
 <picture>
